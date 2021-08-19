@@ -9,6 +9,5 @@ function App() {
   );
 }
 
-//checking 
 
 export default App;
