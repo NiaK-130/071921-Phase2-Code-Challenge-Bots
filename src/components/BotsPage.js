@@ -9,8 +9,6 @@ function BotsPage() {
   const [addbot, setaddBot] = useState(0);
 
 
- 
-
   useEffect(() => {
     fetch(botsAPI)
     .then((res) => res.json())
